@@ -38,6 +38,7 @@ The project includes:
 - Inventory
 - Shipping
 - Payments
+- Sellers
 
 ---
 
